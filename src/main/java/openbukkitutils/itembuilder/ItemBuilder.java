@@ -41,6 +41,19 @@ import java.util.function.Function;
 /**
  * Class to ease the creation of {@link ItemStack}s
  */
+/*
+Missing builders:
+
+BlockData,
+BlockState,
+Compass,
+Map,
+MusicInstrument,
+OminousBottle,
+Repairable,
+SpawnEgg,
+TropicalFish
+ */
 public class ItemBuilder {
 
     protected ItemStack stack;
